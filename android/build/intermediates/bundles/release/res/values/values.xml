@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="mfp_toolbar_theme"/>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="compatibility_focus_color">#48000000</color>
+    <color name="compatibility_pressed_color">#1a000000</color>
+    <color name="empty_directory_hint">#c7c7c7</color>
+    <color name="transparent">#00000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_close">Close</string>
+    <string name="app_name">MaterialFilePicker Sample</string>
+    <string name="empty_directory_hint">Empty directory</string>
+    <string name="file_picker_app_name" translatable="false">MaterialFilePicker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_from_activity">Pick file from activity</string>
+    <string name="pick_from_fragment">Pick from fragment</string>
+    <string name="type_apk">APK</string>
+    <string name="type_archive">Archive</string>
+    <string name="type_certificate">Certificate</string>
+    <string name="type_directory">Directory</string>
+    <string name="type_document">File</string>
+    <string name="type_drawing">Picture</string>
+    <string name="type_excel">Spreadsheet</string>
+    <string name="type_image">Image</string>
+    <string name="type_music">Music</string>
+    <string name="type_pdf">PDF document</string>
+    <string name="type_power_point">Presentation</string>
+    <string name="type_video">Video</string>
+    <string name="type_word">Document</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="MFP_BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="mfp_toolbar_theme">@style/MFP_BaseToolbarTheme</item>
+    </style>
+    <style name="MFP_BaseToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">#333</item>
+        <item name="colorControlNormal">#333</item>
+    </style>
+</resources>

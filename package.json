@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-file-selector@0.0.6",
+        "scope": null,
+        "escapedName": "react-native-file-selector",
+        "name": "react-native-file-selector",
+        "rawSpec": "0.0.6",
+        "spec": "0.0.6",
+        "type": "version"
+      },
+      "E:\\rn-learning\\pms-app-release\\pmsapp"
+    ]
+  ],
+  "_from": "react-native-file-selector@0.0.6",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-file-selector@0.0.6",
+  "_inCache": true,
+  "_location": "/react-native-file-selector",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-file-selector_0.0.6_1540792263810_0.5181466337480771"
+  },
+  "_npmUser": {
+    "name": "pranavchauhan01",
+    "email": "pranavchauhan01@gmail.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-file-selector@0.0.6",
+    "scope": null,
+    "escapedName": "react-native-file-selector",
+    "name": "react-native-file-selector",
+    "rawSpec": "0.0.6",
+    "spec": "0.0.6",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-file-selector/-/react-native-file-selector-0.0.6.tgz",
+  "_shasum": "ced266a44ed50c18f7c96f5e25273836064058e3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-file-selector@0.0.6",
+  "_where": "E:\\rn-learning\\pms-app-release\\pmsapp",
+  "author": {
+    "name": "Pranav Raj Singh Chauhan"
+  },
+  "bugs": {
+    "url": "https://github.com/prscX/react-native-file-selector/issues"
+  },
+  "dependencies": {
+    "pod-installer": "0.0.0"
+  },
+  "description": "React Native: Native File Selector",
+  "devDependencies": {
+    "prettier-pack": "0.0.7"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-Xb3LOg3cCpjcIFtavPvEkuE7VAp/VMZOUmCNviSPOKbt+lFukRJSbIHNivhThYIkKPCHy/RP8rpkz23vJjE3Qw==",
+    "shasum": "ced266a44ed50c18f7c96f5e25273836064058e3",
+    "tarball": "https://registry.npmjs.org/react-native-file-selector/-/react-native-file-selector-0.0.6.tgz",
+    "fileCount": 18,
+    "unpackedSize": 45495,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb1p/ICRA9TVsSAnZWagAAYWwP/1qWX/PV9PNjtYz0wcqa\n8PIZRWZiBtMllFjDFfsltjl+Rw1Mf6tOgZGYR3oVy5ZGHev7Cxyhp7mFcjWr\niEdkEveHb7xGOLpHn5Q7ueCGZfh0Yy7Jysh10IVlEnvUflsdNb/JFL7E8okm\n2KwK+JWhzHpCaXD61iO/7gBMaCPHkzKxw1aGbrsNJZHn5hsntMTyP2sXXStK\nQpNWpT3vFq/E1ZbpqQmyAZfY5CW2PxE9h8xd0XvTf+ImbEOUQ9skNH6tzMRX\nXa15w7OkiBI2q1ubGGEXYoZLe16sYDHA6qxsBq5itnZZvt7ZTF2KXCycQYK2\nwfYPvJB5dHEbPmwmPW4m4EnyK4ram+jGkV7YYl8kfljFjZqlsNUEx50DuGep\nkVm6xDtPxR8h7XY/lPaYQOMN2XcgCrcjeDKHjlg2i94hwwQZXsRzXxR0HyfX\ntPAOclINWBIMsR5THHX1Kj8Zd/92wXQyFKSeTxd+H2P/JSdPFARfisYzh4C9\niypHEQoMIcBGn9Eac+X+pvb+V91NZcmWt19J1c9i35op3LPVOb7lTmEcyguE\nJ0mvOsIc8c7bxDgY5QrOUW+FRZb0wyQuAdmW+VCEtd3W+Fyyi/WE+/1gC+zt\nyttVB+Toe3xlMhOdS/rjwQOexwstHcLQD0Ai4a2dCghO/05yfVtWpuOXLSZE\nlvhm\r\n=NOdJ\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "7a0193b871baf0b4547fd4e2ac1e3c333d788d49",
+  "homepage": "https://github.com/prscX/react-native-file-selector#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "Apache License",
+  "main": "RNFileSelector.js",
+  "maintainers": [
+    {
+      "name": "pranavchauhan01",
+      "email": "pranavchauhan01@gmail.com"
+    }
+  ],
+  "name": "react-native-file-selector",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prscX/react-native-file-selector.git"
+  },
+  "scripts": {
+    "postinstall": "node ../pod-installer/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
+}
